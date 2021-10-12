@@ -13,7 +13,6 @@ You can register by random username and password.
 * React.js
 * Axios
 * Yub API (for authenticates a (one time password) using the Yubico API)
-* Web-Vitals
 * Formik
 * Material-ui
 * Node.js
