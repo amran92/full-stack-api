@@ -4,7 +4,7 @@
 If you're in a hurry, you can either scroll down to see the screenshots and glance through this README file, or head over to this link (https://full-stack-writepost.netlify.app/login) and check it out.
 
 ### [2] Introduction
-A full-stack web application built using React.js, Node.js, MySQL, Sequelize, and other cool technologies. It is a simple app similar to a social media app. It has all the typical features you'd see in social media such as resetting passwords, making a post, commenting, liking, and so on.
+A full-stack web application built using React.js, Node.js, MySQL, Sequelize, and other cool technologies. It is a simple app similar to a social media app. It has all the typical features you'd see in social media such as changing passwords, making a post, commenting, liking, and so on.
 
 ### [3] Demo Credentials 
 You can register by random username and password.
